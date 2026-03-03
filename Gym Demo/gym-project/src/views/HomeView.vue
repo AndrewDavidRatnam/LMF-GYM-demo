@@ -3,8 +3,8 @@
     <nav class="navbar">
       <div class="logo">LMF<span>GYM</span></div>
       <div class="nav-links">
-        <a href="#about">About</a>
-        <a href="#plans">Plans</a>
+        <!--<a href="#about">About</a>
+        <a href="#plans">Plans</a>  #can implement later -->
         <button @click="startOnboarding" class="contact-btn">CONTACT US</button>
       </div>
     </nav>
