@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="card">
-      <h2>Join Ultra Fitness</h2>
+      <h2>Join LMF Fitness</h2>
       
       <!-- HONEYPOT: Invisible to humans. If a bot fills this, the backend rejects it. -->
       <input type="text" v-model="botTrap" class="hidden" tabindex="-1">
